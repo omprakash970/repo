@@ -1,0 +1,18 @@
+# Requirements for the sample repository
+# This file demonstrates how to manage Python dependencies
+
+# No external dependencies needed for this simple project
+# But here are some common packages you might use:
+
+# For web development:
+# flask==2.3.3
+# requests==2.31.0
+
+# For data science:
+# numpy==1.24.3
+# pandas==2.0.3
+
+# For testing:
+# pytest==7.4.0
+
+# Add your dependencies here when needed!

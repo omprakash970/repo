@@ -1,0 +1,32 @@
+{
+  "name": "sample-repository",
+  "version": "1.0.0",
+  "description": "A sample repository for learning Git and GitHub",
+  "main": "hello_world.js",
+  "scripts": {
+    "start": "node hello_world.js",
+    "python": "python3 hello_world.py",
+    "utils": "python3 src/utils.py",
+    "demo": "echo '🚀 Running demo...' && npm run start && echo '🐍 Now running Python version...' && npm run python"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "sample",
+    "learning",
+    "tutorial",
+    "first-commit"
+  ],
+  "author": "omprakash970",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omprakash970/repo.git"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
